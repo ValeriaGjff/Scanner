@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sсanner</string>
+    <string name="hyperlink"><a href="https://www.geeksforgeeks.org/">geeksforgeeks.org</a></string>
+    <string name="hyperlink2"><a href="https://practice.geeksforgeeks.org/">practice.geeksforgeeks.org</a></string>
+</resources>
