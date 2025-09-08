@@ -11,3 +11,7 @@
 ## Стек
 - Android (Java)
 - Google ML Kit
+
+## Скриншоты
+![image](https://github.com/ValeriaGjff/Scanner/blob/main/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
+![image](https://github.com/ValeriaGjff/Scanner/blob/main/pic/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.jpg)
